@@ -30,12 +30,12 @@
 						<a href="#" class="forget-password"><i class="fa fa-forward"></i>Quên
 							mật khẩu?</a>
 						<button type="submit">Đăng nhập</button>
-						<a href="dang-ky.jsp" class="register"><i class="fa fa-user-plus"></i>Đăng
-							kí thành viên</a>
+						<a href="dang-ky.jsp" class="register"><i
+							class="fa fa-user-plus"></i>Đăng kí thành viên</a>
 					</form></li>
 
-				<li><a href="gio-hang.jsp"><i class="fa fa-shopping-cart"></i>Giỏ hàng
-						<span class="cl-red">(20)</span></a></li>
+				<li><a href="gio-hang.jsp"><i class="fa fa-shopping-cart"></i>Giỏ
+						hàng <span class="cl-red">(20)</span></a></li>
 			</ul>
 		</div>
 
@@ -93,8 +93,7 @@
 
 		<div class="ads">
 			<marquee onmouseover=this.stop() onmouseout=this.start()>Từng
-				bừng khai trương, giảm giá 100% tất cả các mặt hàng..:)))) là cho
-				không đó</marquee>
+				bừng khai trương, giảm giá 100% tất cả các mặt hàng..:))))</marquee>
 		</div>
 		<div class="clear"></div>
 	</div>

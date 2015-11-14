@@ -18,6 +18,8 @@
 	<div id="container">
 		<!--Header here -->
 		<%@ include file="header.jsp"%>
+		
+		<!--Body here -->
 		<div id="wrapper">
 			<div class="wrapper-head">
 				<p class="cl-blue">giỏ hàng của bạn</p>
@@ -149,7 +151,8 @@
 				</table>
 				<div class="shop-cart-act">
 					<ul>
-						<li><a href="trang-chu.jsp" class="add-cart">Tiếp tục mua sắm</a></li>
+						<li><a href="trang-chu.jsp" class="add-cart">Tiếp tục mua
+								sắm</a></li>
 						<li><a href="#" class="finish-cart">Thanh toán</a></li>
 					</ul>
 					<div class="clear"></div>

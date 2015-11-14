@@ -1,4 +1,15 @@
 eclipse.preferences.version=1
+encoding//WebContent/admin/footer.jsp=UTF-8
+encoding//WebContent/admin/header.jsp=UTF-8
+encoding//WebContent/admin/hoadon.jsp=UTF-8
+encoding//WebContent/admin/loaisanpham.jsp=UTF-8
+encoding//WebContent/admin/nhomsanpham.jsp=UTF-8
+encoding//WebContent/admin/sanpham.jsp=UTF-8
+encoding//WebContent/admin/taikhoan.jsp=UTF-8
+encoding//WebContent/admin/themloaisanpham.jsp=UTF-8
+encoding//WebContent/admin/themnhomsanpham.jsp=UTF-8
+encoding//WebContent/admin/themsanpham.jsp=UTF-8
+encoding//WebContent/admin/viewer.jsp=UTF-8
 encoding//WebContent/chi-tiet-san-pham.jsp=UTF-8
 encoding//WebContent/gio-hang.jsp=UTF-8
 encoding//WebContent/header.jsp=UTF-8
